@@ -74,7 +74,5 @@ for i in range(len(df[0:10])):
         unfurl_links = False
     )
 
-
-}
 ```
 
