@@ -3,7 +3,7 @@
 
 The finished product will be a bot with the following output in your specified slack channel. Some future opportunities might be to create an executeable script that kicks off every day upon computer login for total automation and versatility.
 
-<img src="/images/End Result Screenshot.PNG"/>
+<img src="/End Result Screenshot.PNG"/>
 
 
 The code is as follows below:
