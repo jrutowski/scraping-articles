@@ -76,7 +76,7 @@ sc.chat_postMessage(channel = SLACK_CHANNEL, text = morning_statement,)
 for i in range(len(df[0:10])):
     desc = "{0} | <{1}>".format(df['title'][i], df['link'][i])
     sc.chat_postMessage(
-        channel='CTN9HL346',
+        channel='SLACK_CHANNEL',
         text = desc,
         unfurl_links = False
     )
